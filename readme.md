@@ -15,3 +15,9 @@ npm run grpc
 ```bash
 npm run http
 ```
+
+rest api endpoint สำหรับ test นี้
+
+```bash
+http://localhost:8000
+```
